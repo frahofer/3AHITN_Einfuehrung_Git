@@ -6,8 +6,10 @@ public class Main {
 
         System.out.println("Nibba");
 
-
         System.out.println("JUAN");
+
+        System.out.println("Git is mittelmäßig");
+
     }
 
 }
