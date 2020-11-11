@@ -3,6 +3,9 @@ public class Main {
         System.out.println("Hallo Senegsoos");
 
         System.out.println("Hallo Rahofer");
+
+        System.out.println("Nibba");
+
     }
 
 }
