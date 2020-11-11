@@ -8,6 +8,11 @@ public class Main {
 
 
         System.out.println("JUAN");
+
+
+        System.out.println("Git is mittelmäßig");
+
+
         System.out.println("OK");
     }
 
